@@ -5,7 +5,7 @@ This project is a template application for any react native application project 
 # Getting started
 Run the following commands to getting started with the project.
 
-* ``` git clone <url> ```
+* ``` git clone https://github.com/Mr-Mahabeer/rn-app-template.git ```
 * ``` cd rn-app-template ```
 * ``` yarn or pnpm/npm i ```
 * ``` yarn/npm/pnpm start ```
